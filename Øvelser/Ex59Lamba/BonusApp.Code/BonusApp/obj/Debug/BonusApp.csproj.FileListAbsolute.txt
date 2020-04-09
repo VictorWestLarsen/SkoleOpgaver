@@ -1,0 +1,7 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex59Lamba\BonusApp.Code\BonusApp\bin\Debug\BonusApp.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex59Lamba\BonusApp.Code\BonusApp\bin\Debug\BonusApp.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex59Lamba\BonusApp.Code\BonusApp\bin\Debug\BonusApp.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex59Lamba\BonusApp.Code\BonusApp\obj\Debug\BonusApp.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex59Lamba\BonusApp.Code\BonusApp\obj\Debug\BonusApp.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex59Lamba\BonusApp.Code\BonusApp\obj\Debug\BonusApp.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex59Lamba\BonusApp.Code\BonusApp\obj\Debug\BonusApp.pdb

@@ -1,0 +1,3 @@
+CREATE TABLE Bicycle(
+--DET SAMME SOM I 3
+)

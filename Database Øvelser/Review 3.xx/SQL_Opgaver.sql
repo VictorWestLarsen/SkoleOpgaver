@@ -1,0 +1,16 @@
+
+CREATE TABLE PET (
+	PetID		Int				NOT NULL IDENTITY(1,1), -- Surrogate key
+	PetName		NVarChar(30)	NOT NULL,
+	PetType		NVarChar(20)	NOT NULL,
+	PetBreed	NVarChar(20)	NOT NULL,
+	PetDOB		DateTime2		NULL,
+	PetWeight	Float			NOT NULL,
+	OwnerID		Int				NOT NULL,
+	--
+	CONSTRAINT	PET_PK			PRIMARY KEY (PetID),
+	CONSTRAINT	PET_OWNER_FK	FOREIGN KEY (OwnerID) 
+		REFERENCES PET_OWNER(OwnerID) 
+		ON UPDATE NO ACTION 
+		ON DELETE NO ACTION 
+);

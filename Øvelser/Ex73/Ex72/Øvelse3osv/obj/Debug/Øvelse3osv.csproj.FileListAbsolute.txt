@@ -1,0 +1,7 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex73\Ex72\Øvelse3osv\bin\Debug\Øvelse3osv.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex73\Ex72\Øvelse3osv\bin\Debug\Øvelse3osv.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex73\Ex72\Øvelse3osv\bin\Debug\Øvelse3osv.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex73\Ex72\Øvelse3osv\obj\Debug\Øvelse3osv.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex73\Ex72\Øvelse3osv\obj\Debug\Øvelse3osv.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex73\Ex72\Øvelse3osv\obj\Debug\Øvelse3osv.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex73\Ex72\Øvelse3osv\obj\Debug\Øvelse3osv.pdb

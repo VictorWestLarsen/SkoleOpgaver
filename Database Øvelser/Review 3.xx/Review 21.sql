@@ -1,0 +1,1 @@
+SELECT PetBreed, PetType, PetDOB FROM PET WHERE PetBreed = 'Std. Poodle' AND PetType = 'Dog';

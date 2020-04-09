@@ -1,0 +1,14 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Projekt\Shutdown\Shutdown\obj\Debug\Shutdown.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Projekt\Shutdown\Shutdown\obj\Debug\Shutdown.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Projekt\Shutdown\Shutdown\bin\Debug\Shutdown.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Projekt\Shutdown\Shutdown\bin\Debug\Shutdown.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Projekt\Shutdown\Shutdown\bin\Debug\Shutdown.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Projekt\Shutdown\Shutdown\obj\Debug\Shutdown.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Projekt\Shutdown\Shutdown\obj\Debug\Shutdown.pdb
+C:\Users\VictorWoldenWest-Lar\Documents\Git\Shutdown\Shutdown\bin\Debug\Shutdown.exe.config
+C:\Users\VictorWoldenWest-Lar\Documents\Git\Shutdown\Shutdown\bin\Debug\Shutdown.exe
+C:\Users\VictorWoldenWest-Lar\Documents\Git\Shutdown\Shutdown\bin\Debug\Shutdown.pdb
+C:\Users\VictorWoldenWest-Lar\Documents\Git\Shutdown\Shutdown\obj\Debug\Shutdown.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\Documents\Git\Shutdown\Shutdown\obj\Debug\Shutdown.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\Documents\Git\Shutdown\Shutdown\obj\Debug\Shutdown.exe
+C:\Users\VictorWoldenWest-Lar\Documents\Git\Shutdown\Shutdown\obj\Debug\Shutdown.pdb

@@ -1,0 +1,7 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex60ExtensionMethods\Ex60ExtensionMethods\bin\Debug\Ex60ExtensionMethods.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex60ExtensionMethods\Ex60ExtensionMethods\bin\Debug\Ex60ExtensionMethods.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex60ExtensionMethods\Ex60ExtensionMethods\bin\Debug\Ex60ExtensionMethods.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex60ExtensionMethods\Ex60ExtensionMethods\obj\Debug\Ex60ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex60ExtensionMethods\Ex60ExtensionMethods\obj\Debug\Ex60ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex60ExtensionMethods\Ex60ExtensionMethods\obj\Debug\Ex60ExtensionMethods.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex60ExtensionMethods\Ex60ExtensionMethods\obj\Debug\Ex60ExtensionMethods.pdb

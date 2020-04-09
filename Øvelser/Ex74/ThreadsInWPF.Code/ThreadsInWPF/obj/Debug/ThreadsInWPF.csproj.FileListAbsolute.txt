@@ -1,0 +1,44 @@
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\bin\Debug\ThreadsInWPF.exe.config
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\bin\Debug\ThreadsInWPF.exe
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\bin\Debug\ThreadsInWPF.pdb
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF.csprojAssemblyReference.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\MainWindow.g.cs
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\App.g.cs
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF_MarkupCompile.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF_MarkupCompile.lref
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\MainWindow.baml
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF.g.resources
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF.Properties.Resources.resources
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF.csproj.GenerateResource.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF.csproj.CoreCompileInputs.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF.exe
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF\ThreadsInWPF\obj\Debug\ThreadsInWPF.pdb
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\bin\Debug\ThreadsInWPF.exe.config
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\bin\Debug\ThreadsInWPF.exe
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\bin\Debug\ThreadsInWPF.pdb
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\MainWindow.g.cs
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\App.g.cs
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF_MarkupCompile.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF_MarkupCompile.lref
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\MainWindow.baml
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.g.resources
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.Properties.Resources.resources
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.csproj.GenerateResource.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.csproj.CoreCompileInputs.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.exe
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex74-ThreadsInWPF\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\MainWindow.g.cs
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\App.g.cs
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF_MarkupCompile.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF_MarkupCompile.lref
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\bin\Debug\ThreadsInWPF.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\bin\Debug\ThreadsInWPF.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\bin\Debug\ThreadsInWPF.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\MainWindow.baml
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.g.resources
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.Properties.Resources.resources
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.csproj.GenerateResource.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex74\ThreadsInWPF.Code\ThreadsInWPF\obj\Debug\ThreadsInWPF.csproj.CoreCompileInputs.cache

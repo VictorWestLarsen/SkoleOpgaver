@@ -1,0 +1,7 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex72\Ex72\Opgave4og5\obj\Debug\Opgave4og5.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex72\Ex72\Opgave4og5\obj\Debug\Opgave4og5.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex72\Ex72\Opgave4og5\bin\Debug\Opgave4og5.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex72\Ex72\Opgave4og5\bin\Debug\Opgave4og5.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex72\Ex72\Opgave4og5\bin\Debug\Opgave4og5.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex72\Ex72\Opgave4og5\obj\Debug\Opgave4og5.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex72\Ex72\Opgave4og5\obj\Debug\Opgave4og5.pdb

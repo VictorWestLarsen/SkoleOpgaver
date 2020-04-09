@@ -1,0 +1,7 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex57-StacksAndQueues\Ex57-StacksAndQueues\bin\Debug\Ex57-StacksAndQueues.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex57-StacksAndQueues\Ex57-StacksAndQueues\bin\Debug\Ex57-StacksAndQueues.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex57-StacksAndQueues\Ex57-StacksAndQueues\bin\Debug\Ex57-StacksAndQueues.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex57-StacksAndQueues\Ex57-StacksAndQueues\obj\Debug\Ex57-StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex57-StacksAndQueues\Ex57-StacksAndQueues\obj\Debug\Ex57-StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex57-StacksAndQueues\Ex57-StacksAndQueues\obj\Debug\Ex57-StacksAndQueues.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex57-StacksAndQueues\Ex57-StacksAndQueues\obj\Debug\Ex57-StacksAndQueues.pdb

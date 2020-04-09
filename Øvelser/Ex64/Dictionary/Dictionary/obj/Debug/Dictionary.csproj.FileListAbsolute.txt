@@ -1,0 +1,7 @@
+C:\Users\Allan\OneDrive - Erhvervsakademiet Lillebælt\1.studieår\E2018\Programmering\Øvelser\Dict\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Allan\OneDrive - Erhvervsakademiet Lillebælt\1.studieår\E2018\Programmering\Øvelser\Dict\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Allan\OneDrive - Erhvervsakademiet Lillebælt\1.studieår\E2018\Programmering\Øvelser\Dict\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Allan\OneDrive - Erhvervsakademiet Lillebælt\1.studieår\E2018\Programmering\Øvelser\Dict\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\Allan\OneDrive - Erhvervsakademiet Lillebælt\1.studieår\E2018\Programmering\Øvelser\Dict\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Allan\OneDrive - Erhvervsakademiet Lillebælt\1.studieår\E2018\Programmering\Øvelser\Dict\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Allan\OneDrive - Erhvervsakademiet Lillebælt\1.studieår\E2018\Programmering\Øvelser\Dict\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

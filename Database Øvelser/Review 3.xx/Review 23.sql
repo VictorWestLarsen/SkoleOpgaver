@@ -1,0 +1,1 @@
+SELECT PetId, PetBreed, PetType FROM PET WHERE PetName LIKE 'K%'

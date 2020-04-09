@@ -1,0 +1,10 @@
+CREATE TABLE Subject_Exam(
+ExamID		INT			Not null,
+SubjectID	INT			Not null,
+--
+CONSTRAINT			SUBEX_PK		PRIMARY KEY(ExamID, SubjectID),
+CONSTRAINT			SUBJEX_FK		FOREIGN KEY(ExamID)
+					REFERENCES		Exam(ExamID),
+CONSTRAINT			SUBEX_FK		FOREIGN KEY(SubjectID)
+					REFERENCES		Subjects(SubjectID)
+)

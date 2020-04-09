@@ -1,0 +1,7 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex58BinarySearchTree\Ex58BinarySearchTree\bin\Debug\Ex58BinarySearchTree.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex58BinarySearchTree\Ex58BinarySearchTree\bin\Debug\Ex58BinarySearchTree.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex58BinarySearchTree\Ex58BinarySearchTree\bin\Debug\Ex58BinarySearchTree.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex58BinarySearchTree\Ex58BinarySearchTree\obj\Debug\Ex58BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex58BinarySearchTree\Ex58BinarySearchTree\obj\Debug\Ex58BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex58BinarySearchTree\Ex58BinarySearchTree\obj\Debug\Ex58BinarySearchTree.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex58BinarySearchTree\Ex58BinarySearchTree\obj\Debug\Ex58BinarySearchTree.pdb

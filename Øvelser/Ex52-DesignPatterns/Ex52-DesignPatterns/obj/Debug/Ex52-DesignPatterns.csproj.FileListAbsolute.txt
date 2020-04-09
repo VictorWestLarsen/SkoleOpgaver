@@ -1,0 +1,7 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex52-DesignPatterns\Ex52-DesignPatterns\bin\Debug\Ex52-DesignPatterns.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex52-DesignPatterns\Ex52-DesignPatterns\bin\Debug\Ex52-DesignPatterns.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex52-DesignPatterns\Ex52-DesignPatterns\bin\Debug\Ex52-DesignPatterns.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex52-DesignPatterns\Ex52-DesignPatterns\obj\Debug\Ex52-DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex52-DesignPatterns\Ex52-DesignPatterns\obj\Debug\Ex52-DesignPatterns.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex52-DesignPatterns\Ex52-DesignPatterns\obj\Debug\Ex52-DesignPatterns.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex52-DesignPatterns\Ex52-DesignPatterns\obj\Debug\Ex52-DesignPatterns.csprojAssemblyReference.cache

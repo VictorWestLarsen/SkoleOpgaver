@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex72", "Ex72\Ex72.csproj", "{C64304AA-CF7D-48F8-909B-9F17275EF3C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øvelse3osv", "Øvelse3osv\Øvelse3osv.csproj", "{BBAB635C-C59C-4EB9-8079-C9959FBB7A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C64304AA-CF7D-48F8-909B-9F17275EF3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64304AA-CF7D-48F8-909B-9F17275EF3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64304AA-CF7D-48F8-909B-9F17275EF3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64304AA-CF7D-48F8-909B-9F17275EF3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAB635C-C59C-4EB9-8079-C9959FBB7A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAB635C-C59C-4EB9-8079-C9959FBB7A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAB635C-C59C-4EB9-8079-C9959FBB7A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAB635C-C59C-4EB9-8079-C9959FBB7A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD70CA31-E849-4BC4-BA45-9BA748ACD13E}
+	EndGlobalSection
+EndGlobal

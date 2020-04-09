@@ -1,0 +1,14 @@
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\Ex04-Numbers\bin\Debug\Ex04-Numbers.exe.config
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\Ex04-Numbers\bin\Debug\Ex04-Numbers.exe
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\Ex04-Numbers\bin\Debug\Ex04-Numbers.pdb
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\Ex04-Numbers\obj\Debug\Ex04-Numbers.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\Ex04-Numbers\obj\Debug\Ex04-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\Ex04-Numbers\obj\Debug\Ex04-Numbers.exe
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\Ex04-Numbers\obj\Debug\Ex04-Numbers.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\Ex04-Numbers\obj\Debug\Ex04-Numbers.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\Ex04-Numbers\obj\Debug\Ex04-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\Ex04-Numbers\obj\Debug\Ex04-Numbers.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\Ex04-Numbers\obj\Debug\Ex04-Numbers.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\Ex04-Numbers\bin\Debug\Ex04-Numbers.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\Ex04-Numbers\bin\Debug\Ex04-Numbers.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\Ex04-Numbers\bin\Debug\Ex04-Numbers.pdb

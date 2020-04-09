@@ -1,0 +1,11 @@
+CREATE TABLE PATIENT_PÅRØRENDE(
+	PatientId		INT			NOT NULL,
+	PårørendeId		INT			NOT NULL,
+
+--
+CONSTRAINT		PATIENTPÅRØRENDE_PK		PRIMARY KEY(PatientId,PårørendeId),
+CONSTRAINT		PATIENTPÅR_FK			FOREIGN KEY(PatientId)
+				REFERENCES				Patient(PatientId),
+CONSTRAINT		PATPÅRØRENDE_FK			FOREIGN KEY(PårørendeId)
+				REFERENCES				Pårørende(PårørendeId)
+)

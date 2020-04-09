@@ -1,0 +1,30 @@
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.csprojAssemblyReference.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\MainWindow.g.cs
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\App.g.cs
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI_MarkupCompile.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI_MarkupCompile.lref
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\bin\Debug\InteractiveGUI.exe.config
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\bin\Debug\InteractiveGUI.exe
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\bin\Debug\InteractiveGUI.pdb
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\MainWindow.baml
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.g.resources
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.Properties.Resources.resources
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.csproj.GenerateResource.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.exe
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex44-GUI 02\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.pdb
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\bin\Debug\InteractiveGUI.exe.config
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\bin\Debug\InteractiveGUI.exe
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\bin\Debug\InteractiveGUI.pdb
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\MainWindow.g.cs
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\App.g.cs
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI_MarkupCompile.cache
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI_MarkupCompile.lref
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\MainWindow.baml
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.g.resources
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.Properties.Resources.resources
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.csproj.GenerateResource.cache
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.exe
+C:\Users\VictorWoldenWest-Lar\Desktop\Downloads\Ex44-GUI 02-Code\InteractiveGUI\InteractiveGUI\obj\Debug\InteractiveGUI.pdb

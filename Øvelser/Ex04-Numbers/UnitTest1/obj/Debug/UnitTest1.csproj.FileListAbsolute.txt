@@ -1,0 +1,34 @@
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\UnitTest1.dll
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\UnitTest1.pdb
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Ex04-Numbers.exe
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Ex04-Numbers.pdb
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Ex04-Numbers.exe.config
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.csproj.CopyComplete
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.dll
+C:\Users\VictorWoldenWest-Lar\source\repos\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.dll
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\UnitTest1.dll
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\UnitTest1.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Ex04-Numbers.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Ex04-Numbers.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Ex04-Numbers.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex04-Numbers\UnitTest1\obj\Debug\UnitTest1.csproj.CopyComplete

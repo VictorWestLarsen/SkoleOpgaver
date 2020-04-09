@@ -1,0 +1,7 @@
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex09-Temperature\Ex09-Temperature\obj\Debug\Ex09-Temperature.csprojAssemblyReference.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex09-Temperature\Ex09-Temperature\obj\Debug\Ex09-Temperature.csproj.CoreCompileInputs.cache
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex09-Temperature\Ex09-Temperature\bin\Debug\Ex09-Temperature.exe.config
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex09-Temperature\Ex09-Temperature\bin\Debug\Ex09-Temperature.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex09-Temperature\Ex09-Temperature\bin\Debug\Ex09-Temperature.pdb
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex09-Temperature\Ex09-Temperature\obj\Debug\Ex09-Temperature.exe
+C:\Users\VictorWoldenWest-Lar\OneDrive - Erhvervsakademiet Lillebælt\Programmering\Øvelser\Ex09-Temperature\Ex09-Temperature\obj\Debug\Ex09-Temperature.pdb
